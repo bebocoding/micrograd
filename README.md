@@ -31,7 +31,7 @@ The notebook `demo.ipynb` provides a full demo on training a simple 2-layers neu
 ![decision boundry](./decision-boundry.png)
 
 # Tracing graph / visualization
-The notebook `trce_graph.ipynb` produces graphviz visualization of the computational graph. E.g. below is a simple neuron taking 2-D input perfroming `w*x + b` then activating using `tanh` function. Each value node include the value(on the left part) and the gradient(on the right part):
+The notebook `trace_graph.ipynb` produces graphviz visualization of the computational graph. E.g. below is a simple neuron taking 2-D input perfroming `w*x + b` then activating using `tanh` function. Each value node include the value(on the left part) and the gradient(on the right part):
 
 ![graph trace](./graph-trace.svg)
 
