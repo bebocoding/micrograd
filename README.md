@@ -3,7 +3,7 @@ An automatic differentiation implementation. Implements backpropagation (reverse
 
 
 # Example usage
-below is an simple example showing different operations that can be done:
+below is a simple example showing different operations that can be done:
 ```python
 from micrograd.engine import Value
 
